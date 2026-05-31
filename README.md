@@ -1,1 +1,0 @@
-# Operators---Hacker-Rank
